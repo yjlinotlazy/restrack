@@ -1,7 +1,6 @@
 from distutils.core import setup
 
 required_pkgs = [
-    "json",
     "pandas",
     "numpy"
 ]
