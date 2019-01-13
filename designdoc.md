@@ -43,4 +43,4 @@ objectives. It allows user to
 
 **Configuration**
  - Location of config file (default is `~/.restrack/config.json`)
- - Location of data file (default is `~/.restrack/db.csv`)
+ - Location of data files (default is `~/.restrack/db/`)
