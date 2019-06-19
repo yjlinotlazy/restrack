@@ -1,6 +1,8 @@
+**NOT USABLE AND PROBABLY ABANDONED**
+
 # INTRODUCTION
 
-ResTrack is a resolution progress tracking application that needs to
+ResTrack is planed to be a resolution progress tracking application that needs to
 be run locally. See [designdoc](designdoc.md) for more details.
 
 ### USAGE
